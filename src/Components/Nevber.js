@@ -14,6 +14,7 @@ const Nevber = () => {
         <Link to="/"><li>Home</li></Link>
         <Link to="clients"><li>Clients</li></Link>
         <Link to="services"><li>Services</li></Link>
+        <Link to="Sup-Palastain"><li>Sup-Palastain</li></Link>
         <Link to="about"><li>About</li></Link>
         <Link className='conb' to="contact"><li>Contact</li></Link>
       </ul>
