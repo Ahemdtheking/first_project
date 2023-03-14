@@ -4,7 +4,6 @@ const Services = () => {
   return (
     <div>
       <h1 className='DT'>Welcome to Services Page</h1>
-      <p className='DT'>There is no Service</p>
     </div>
   )
 }
